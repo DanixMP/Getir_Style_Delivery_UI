@@ -1,0 +1,59 @@
+GETIR_STYLE_DELIVERY_UI
+Proprietary Source-Available Non-Commercial License
+Copyright (c) 2026. All Rights Reserved.
+
+1. Definitions
+   "Software" means this repository and all source code, assets, documentation,
+   and other materials included with it.
+   "Commercial Use" means any use intended for or directed toward commercial
+   advantage, monetary compensation, business operations, internal business
+   use by a company or organization, SaaS hosting, resale, white-labeling,
+   redistribution for a fee, or providing services to third parties.
+
+2. Grant (limited)
+   Permission is granted, free of charge, to view, download, and run the
+   Software solely for personal, educational, evaluation, or non-commercial
+   research purposes, subject to this License.
+
+3. Restrictions
+   You may NOT, without a separate written commercial license from the
+   copyright holder:
+   (a) use the Software for Commercial Use;
+   (b) sell, sublicense, rent, lease, or otherwise commercially exploit the
+       Software;
+   (c) use the Software to build, operate, or power a competing product or
+       service offered to customers;
+   (d) remove or alter copyright, license, or proprietary notices;
+   (e) redistribute the Software except as expressly allowed for personal
+       non-commercial evaluation (and only with this License intact).
+
+4. No open-source grant
+   This License is NOT an open-source license (including OSI or FSF
+   definitions). No patent, trademark, or broader copyright license is
+   granted except as expressly stated above.
+
+5. Ownership
+   The Software remains the exclusive property of the copyright holder.
+   Unauthorized Commercial Use constitutes copyright infringement and may
+   give rise to civil claims for damages, injunctive relief, and other
+   remedies available under applicable law.
+
+6. Commercial licensing
+   To obtain rights for Commercial Use, contact the copyright holder and
+   enter into a separate written agreement.
+
+7. Termination
+   Any breach of this License automatically terminates the rights granted
+   herein. Upon termination you must cease all use and destroy copies in
+   your possession, except as required by law.
+
+8. Disclaimer
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT
+   SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY ARISING FROM USE OF THE SOFTWARE.
+
+9. Governing law
+   This License is governed by the laws applicable in the copyright holder's
+   jurisdiction, without regard to conflict-of-law rules.

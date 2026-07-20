@@ -1,0 +1,66 @@
+# Secrets / local env
+.env
+.env.*
+!.env.example
+**/deploy/**/.env
+getir_style_delivery_ui_backend/.env
+getir_style_delivery_ui_backend/.venv/
+**/.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+*.sqlite3
+db.sqlite3
+
+# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/coverage/
+**/*.iml
+**/.idea/
+**/.vscode/
+**/android/.gradle/
+**/android/local.properties
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+
+# Backups / archives
+**/*.rar
+**/*.zip
+**/backup/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Logs / local tooling
+*.log
+.claude/
+.claude-flow/
+.mcp.json
+
+# Design mocks / brand assets (do not publish)
+frontend/**/design/
+**/assets/logo/
+

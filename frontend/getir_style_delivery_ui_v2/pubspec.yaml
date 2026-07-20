@@ -1,0 +1,50 @@
+name: getir_style_delivery_ui_v2
+description: "GetirStyleDeliveryUi - Iranian on-demand delivery app"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  country_picker: ^2.0.27
+  pin_code_fields: ^9.4.0
+  shadcn_ui: ^0.53.3
+  animations: ^2.2.0
+  curved_navigation_bar: ^1.0.6
+  google_fonts: ^6.2.1
+  persian_fonts: ^1.0.6
+  provider: ^6.1.2
+  shared_preferences: ^2.3.4
+  intl: any
+  dio: ^5.7.0
+  flutter_secure_storage: ^9.2.4
+  carousel_slider: ^5.0.0
+  cached_network_image: ^3.4.1
+  flutter_map: ^7.0.2
+  flutter_map_cancellable_tile_provider: ^3.0.2
+  latlong2: ^0.9.1
+  web_socket_channel: ^3.0.1
+  vertical_card_pager: ^1.6.3
+  livekit_client: ^2.8.1
+  permission_handler: ^12.0.3
+  geolocator: ^13.0.2
+  panorama: ^0.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/placeholders/
